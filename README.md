@@ -29,7 +29,7 @@ To compile with flags, go to the library path and run:
 ```shell
 $ make bonus
 ```
-**2. Using it in your code **
+**2. Using it in your code**
 
 To use the library functions in your code, simply include its header:
 
