@@ -16,8 +16,8 @@
  # and bonus 
  - your function will handling this (#, +, space) flags
  ## 🛠️ Usage
- 
-**1. Compiling the library **
+
+**1. Compiling the library**
 
 To compile without flags, go to the library path and run:
 
@@ -29,14 +29,14 @@ To compile with flags, go to the library path and run:
 ```shell
 $ make bonus
 ```
-**2. Using it in your code**
+**2. Using it in your code **
 
 To use the library functions in your code, simply include its header:
 
 ```C
 #include "./includes/ft_printf.h"
 ```
-## Skills
+## 💡 Skills
 
  - Rigor
  - Algorithms & AI
