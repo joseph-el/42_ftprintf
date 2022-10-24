@@ -1,6 +1,7 @@
 # 42_ft_printf
 > This project you will try to recode the standard function printf.
 **About the project**
+
 > This project is perfect you will recode the standard function printf. and thing how mainly learn to use variadic arguments.
 > Printf allows you to explore parsing and learn deeply about variadic functions in C.
 # in mandatory part you will handle this format below
@@ -13,7 +14,8 @@
  - %x Prints a number in hexadecimal (base 16) lowercase format.
  - %X Prints a number in hexadecimal (base 16) uppercase format. 
  - %% Prints a percent sign.
-**and bonus** 
+
+ **and bonus** 
  - your function will handling this (#, +, space) flags
  ## 🛠️ Usage
 
