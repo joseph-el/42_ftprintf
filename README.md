@@ -5,7 +5,9 @@
 
 > This project is perfect you will recode the standard function printf. and thing how mainly learn to use variadic arguments.
 > Printf allows you to explore parsing and learn deeply about variadic functions in C.
+
 **in mandatory part you will handle this format below
+
  - %c Prints a single character.  
  - %s Prints a string (as defined by the common C convention).
  - %p The void * pointer argument has to be printed in hexadecimal format.
@@ -17,6 +19,7 @@
  - %% Prints a percent sign.
 
  **and bonus** 
+ 
  - your function will handling this (#, +, space) flags
  ## 🛠️ Usage
 
